@@ -13,3 +13,6 @@ I am using a PHP code to request the lecon plan for the week. This script runs o
 For a user to acces the information they request the data with a FETCH request to a php file that is soely made for getting the data from the txt file and relaying it back to the user.
 
 The user then uses the received Data to display all currently unocupied rooms at the School.
+
+
+There is also a SQL server running in the Background to track things like user Activity and store the Messages sent on the Messaging Platform
